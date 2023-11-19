@@ -22,33 +22,33 @@ The project is structured with the following sections:
 
 * Baseline Model:	Establish a baseline for performance reference.
 
-** Predictions and MAPE:	Generate initial predictions and calculate MAPE.
+  * Predictions and MAPE:	Generate initial predictions and calculate MAPE.
 
 * SARIMA Model:	Implement SARIMA with ADF test for stationarity.
 
-** Train and Test Sets:	Divide data for model validation.
+  * Train and Test Sets:	Divide data for model validation.
 
-** Optimize SARIMA Function:	Fine-tune parameters for optimal performance.
+  * Optimize SARIMA Function:	Fine-tune parameters for optimal performance.
 
-** Run Optimized Function and Residual Analysis:	Apply optimized SARIMA function and analyze residuals.
+  * Run Optimized Function and Residual Analysis:	Apply optimized SARIMA function and analyze residuals.
 
-** Predictions and MAPE:	Generate SARIMA predictions and calculate MAPE.
+  * Predictions and MAPE:	Generate SARIMA predictions and calculate MAPE.
 
-** Forecast into the Future:	Extend SARIMA predictions for future trends.
+  * Forecast into the Future:	Extend SARIMA predictions for future trends.
 
 * LSTM RNN Model:	Implement LSTM Recurrent Neural Network.
 
-** Scale the Data and Data Windowing:	Scale data and apply windowing for LSTM.
+  * Scale the Data and Data Windowing:	Scale data and apply windowing for LSTM.
 
-** Building and Fitting the Model:	Construct and train the LSTM model.
+  * Building and Fitting the Model:	Construct and train the LSTM model.
 
-** Predictions and MAPE:	Generate LSTM predictions and calculate MAPE.
+  * Predictions and MAPE:	Generate LSTM predictions and calculate MAPE.
 
-**Forecast into the Future:	Extend LSTM predictions for future trends.
+  * Forecast into the Future:	Extend LSTM predictions for future trends.
 
 * Conclusions:	Summarize findings and insights.
 
-** MAPE Comparison and Final Predictions:Compare MAPE values between SARIMA and LSTM models and present final 
+  * MAPE Comparison and Final Predictions:Compare MAPE values between SARIMA and LSTM models and present final 
 predictions.
 
 # Technologies Used
