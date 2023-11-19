@@ -18,7 +18,7 @@ The project is structured with the following sections:
 
 * Inspect and Visualize:	Explore and visualize dataset characteristics.
 
-  *Identifying Seasonal Patterns:	Analyze for recurring patterns, especially seasonality.
+  * Identifying Seasonal Patterns:	Analyze for recurring patterns, especially seasonality.
 
 * Baseline Model:	Establish a baseline for performance reference.
 
