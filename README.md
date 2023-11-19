@@ -9,45 +9,46 @@ Book: Peixeiro, Marco. Time Series Forecasting in Python. Manning Publications, 
 
 # Project Structure
 The project is structured with the following sections:
-Import Libraries: Set up necessary tools for analysis.
 
-Load the Data: Acquire the quarterly retail sales dataset.
+* Import Libraries: Set up necessary tools for analysis.
 
-Data Preprocessing:	Clean and prepare the data.
+* Load the Data: Acquire the quarterly retail sales dataset.
 
-Inspect and Visualize:	Explore and visualize dataset characteristics.
+* Data Preprocessing:	Clean and prepare the data.
 
-Identifying Seasonal Patterns:	Analyze for recurring patterns, especially seasonality.
+* Inspect and Visualize:	Explore and visualize dataset characteristics.
 
-Baseline Model:	Establish a baseline for performance reference.
+** Identifying Seasonal Patterns:	Analyze for recurring patterns, especially seasonality.
 
-Predictions and MAPE:	Generate initial predictions and calculate MAPE.
+* Baseline Model:	Establish a baseline for performance reference.
 
-SARIMA Model:	Implement SARIMA with ADF test for stationarity.
+** Predictions and MAPE:	Generate initial predictions and calculate MAPE.
 
-Train and Test Sets:	Divide data for model validation.
+* SARIMA Model:	Implement SARIMA with ADF test for stationarity.
 
-Optimize SARIMA Function:	Fine-tune parameters for optimal performance.
+** Train and Test Sets:	Divide data for model validation.
 
-Run Optimized Function and Residual Analysis:	Apply optimized SARIMA function and analyze residuals.
+** Optimize SARIMA Function:	Fine-tune parameters for optimal performance.
 
-Predictions and MAPE:	Generate SARIMA predictions and calculate MAPE.
+** Run Optimized Function and Residual Analysis:	Apply optimized SARIMA function and analyze residuals.
 
-Forecast into the Future:	Extend SARIMA predictions for future trends.
+** Predictions and MAPE:	Generate SARIMA predictions and calculate MAPE.
 
-LSTM RNN Model:	Implement LSTM Recurrent Neural Network.
+** Forecast into the Future:	Extend SARIMA predictions for future trends.
 
-Scale the Data and Data Windowing:	Scale data and apply windowing for LSTM.
+* LSTM RNN Model:	Implement LSTM Recurrent Neural Network.
 
-Building and Fitting the Model:	Construct and train the LSTM model.
+** Scale the Data and Data Windowing:	Scale data and apply windowing for LSTM.
 
-Predictions and MAPE:	Generate LSTM predictions and calculate MAPE.
+** Building and Fitting the Model:	Construct and train the LSTM model.
 
-Forecast into the Future:	Extend LSTM predictions for future trends.
+** Predictions and MAPE:	Generate LSTM predictions and calculate MAPE.
 
-Conclusions:	Summarize findings and insights.
+**Forecast into the Future:	Extend LSTM predictions for future trends.
 
-MAPE Comparison and Final Predictions:Compare MAPE values between SARIMA and LSTM models and present final 
+* Conclusions:	Summarize findings and insights.
+
+** MAPE Comparison and Final Predictions:Compare MAPE values between SARIMA and LSTM models and present final 
 predictions.
 
 # Technologies Used
