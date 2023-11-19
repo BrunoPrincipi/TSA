@@ -5,7 +5,7 @@
 
 # Project Overview
 Welcome to my time series forecasting project, inspired by the practical insights gained from the book "Time Series Forecasting in Python." Here, I apply the knowledge acquired from the book to predict retail sales trends in New Zealand over the next two years.
-By implementing Python-based techniques recommended in the book, I aim to actively utilize and demonstrate the acquired skills. The specific focus is on forecasting retail sales, utilizing Stats NZ data and following the step-by-step approach outlined in the book written by Marco Peixeiro.
+By implementing Python-based techniques recommended, I aim to actively utilize and demonstrate the acquired skills. The specific focus is on forecasting retail sales, utilizing Stats NZ data and following the step-by-step approach outlined in the book written by Marco Peixeiro.
 Book: Peixeiro, Marco. Time Series Forecasting in Python. Manning Publications, 2022.
 
 # Project Structure
