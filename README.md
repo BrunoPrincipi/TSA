@@ -6,7 +6,16 @@
 Welcome to my time series forecasting project, inspired by the practical insights gained from the book "Time Series Forecasting in Python." Here, I apply the knowledge acquired from the book to predict retail sales trends in New Zealand over the next two years.
 
 # Technologies Used:
-
+> Python
+Beautifulsoup
+Requests
+Regular expressions
+Shapely
+Geopy
+Folium
+Scikit-learn
+Pandas
+NumPy
 # Goals and Results:
 
 # Files:
