@@ -81,6 +81,9 @@ Three models—SARIMA 1, SARIMA 2, and LSTM—were deployed to capture and forec
 While SARIMA models did well in catching the seasonal trends, it's good to note that LSTM models usually work better with larger datasets, around 10,000 or more points. Still, its inclusion in the analysis served the purpose of experimentation, learning, and comparison.
 In conclusion, SARIMA models performed better here, but including LSTM allowed us to see how it stacks up in a scenario where it's not ideal. This comparison helps us understand which models might work best based on the data we have. Further tweaking and exploring different models could improve predictions, especially with more extensive datasets.
 
+![image](https://github.com/BrunoPrincipi/TSA/assets/125404145/b6b012df-8cea-4e74-a8d5-9225905c76c9)
+
+![image](https://github.com/BrunoPrincipi/TSA/assets/125404145/0a0c2440-04d2-476b-8d2f-530c5b1d3668)
 
 
 # Files
