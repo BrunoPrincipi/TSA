@@ -1,6 +1,6 @@
 # Forecasting Future Trends: A Time Series Analysis of Retail Sales in New Zealand
 
-![image](https://github.com/BrunoPrincipi/TSA/assets/125404145/86ec5d83-3b3a-4566-beb6-cbdcb957e57e)
+![image](https://github.com/BrunoPrincipi/TSA/assets/125404145/5ce40940-7bfc-474b-973e-93f7f305b193)
 
 
 
