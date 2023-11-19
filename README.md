@@ -53,8 +53,13 @@ predictions.
 # Technologies Used
 Python
 Scikit-learn
+Keras
 Pandas
 NumPy
+Statsmodels
+Plotly
+Matplotlib
+
 # Goals and Results
 Goals:
 
@@ -64,7 +69,7 @@ Application of Time Series Models: Implement SARIMA and LSTM models to forecast 
 
 Experimentation and Learning: Embrace an iterative learning process by experimenting with various models, adjusting parameters, and addressing challenges encountered during the project.
 
-Portfolio Development: Create a comprehensive portfolio piece demonstrating my ability to handle time series data, apply forecasting models, and effectively communicate findings
+Portfolio Development: Create a comprehensive portfolio piece demonstrating my ability to handle time series data, apply forecasting models, and effectively communicate findings.
 
 Results:
 In summary, this time series forecasting project focused on predicting quarterly retail sales with a dataset consisting of 112 data points. The univariate nature of the data revealed a clear seasonality trend, with peak sales occurring in the second quarters.
