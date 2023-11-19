@@ -58,13 +58,15 @@ NumPy
 # Goals and Results
 Goals:
 
-Learn and experiment extracting information from a website to build a datast from scratch.
-Learn and experiment how different data cleaning/preprocessing tasks affect model predictions.
-Learn and experiment how the different hyperparameters affect model predictions.
-Predict the sale price of the houses based on the given features.
+Understanding Time Series Data: Gain insights into the characteristics of time series data, including patterns, seasonality, and sequential dependencies.
 
-Results: To evaluate the performance of the models, Root Mean Squared Error (RMSE) was chosen as the metric.
+Application of Time Series Models: Implement SARIMA and LSTM models to forecast future values based on historical time series data.
 
+Experimentation and Learning: Embrace an iterative learning process by experimenting with various models, adjusting parameters, and addressing challenges encountered during the project.
+
+Portfolio Development: Create a comprehensive portfolio piece demonstrating my ability to handle time series data, apply forecasting models, and effectively communicate findings
+
+Results:
 In summary, this time series forecasting project focused on predicting quarterly retail sales with a dataset consisting of 112 data points. The univariate nature of the data revealed a clear seasonality trend, with peak sales occurring in the second quarters.
 Three models—SARIMA 1, SARIMA 2, and LSTM—were deployed to capture and forecast sales patterns. SARIMA 1, with an order of (2,1,3),(0,1,1,4), demonstrated a Mean Absolute Error (MAPE) of 2.4. SARIMA 2, with an order of (1,1,0),(2,1,2,4), exhibited a lower MAPE of 0.95. The LSTM model, configured with a sequential architecture, showed a slightly higher MAPE around 3.5
 While SARIMA models did well in catching the seasonal trends, it's good to note that LSTM models usually work better with larger datasets, around 10,000 or more points. Still, its inclusion in the analysis served the purpose of experimentation, learning, and comparison.
