@@ -87,7 +87,13 @@ In conclusion, SARIMA models performed better here, but including LSTM allowed u
 
 
 # Files
+In this repository you will find the project file (PROJECT_TSA_1.ipynb), the requirement file (requirements.txt) with all the libraries and dependencies to run the project on a colab environment, and the documentation file (documentation TSA.pdf) with information about the data set.
+
 
 # TO DO
 
+* Experiments with a larger dataset to implement Long Short-Term Memory (LSTM) Recurrent Neural Networks (RNN).
+* Focus on optimizing LSTM RNN performance for improved time series analysis.
+
 # Contact Details
+E-mail: principi.bruno@gmail.com
